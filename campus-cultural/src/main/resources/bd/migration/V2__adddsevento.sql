@@ -1,0 +1,2 @@
+ALTER TABLE evento
+ADD COLUMN ds_evento VARCHAR(50);
